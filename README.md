@@ -13,7 +13,7 @@
 
   ## Installation
 
-  Download the package from [pip](https://pip.pypa.io/en/stable/) and unzip it.
+  Download the package from [Github](https://github.com/rathorsunpreet/SimpleAPITestInterface) and unzip it.
 
   ```console
   # Installs dependencies
