@@ -1,5 +1,3 @@
-  # Note: This project is no longer under active development.
-
   # Simple API Test Interface
 
   Simple API Test Interface is an API Test Interface which uses command-line arguments supplied during the execution to perform certain actions.
